@@ -2,6 +2,7 @@
   "name": "yarr",
   "version": "0.1.0",
   "description": "Yet another RSS Reader",
+  "repository": "https://github.com/kaizerroll/yarr",
   "author": "ckhabra@gmail.com (https://channikhabra.github.io/)",
   "scripts": {
     "start": "node server.js",
