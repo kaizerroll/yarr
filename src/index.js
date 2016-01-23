@@ -1,3 +1,6 @@
-console.log('hello world');
-console.log('hello New York!');
+import testObservables from './observableTutorial/index';
+
+testObservables();
+
+
 
